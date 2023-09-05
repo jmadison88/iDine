@@ -19,6 +19,7 @@
 		4685CAAD2A9E40FD002440D8 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4685CAAC2A9E40FD002440D8 /* Order.swift */; };
 		4685CAAF2A9E4102002440D8 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4685CAAE2A9E4102002440D8 /* Menu.swift */; };
 		4685CAB12A9E4111002440D8 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 4685CAB02A9E4111002440D8 /* menu.json */; };
+		4685CAB32AA7636B002440D8 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4685CAB22AA7636B002440D8 /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		4685CAAC2A9E40FD002440D8 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Order.swift; path = ../../../../Downloads/idine/Order.swift; sourceTree = "<group>"; };
 		4685CAAE2A9E4102002440D8 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../../Downloads/idine/Menu.swift; sourceTree = "<group>"; };
 		4685CAB02A9E4111002440D8 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = menu.json; path = ../../../../Downloads/idine/menu.json; sourceTree = "<group>"; };
+		4685CAB22AA7636B002440D8 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 			children = (
 				4685CA7E2A9E3FF2002440D8 /* iDineApp.swift */,
 				4685CA802A9E3FF2002440D8 /* ContentView.swift */,
+				4685CAB22AA7636B002440D8 /* ItemRow.swift */,
 				4685CA822A9E3FF4002440D8 /* Assets.xcassets */,
 				4685CAAA2A9E40E9002440D8 /* Helper.swift */,
 				4685CAAC2A9E40FD002440D8 /* Order.swift */,
@@ -276,6 +279,7 @@
 				4685CA812A9E3FF2002440D8 /* ContentView.swift in Sources */,
 				4685CA7F2A9E3FF2002440D8 /* iDineApp.swift in Sources */,
 				4685CAAD2A9E40FD002440D8 /* Order.swift in Sources */,
+				4685CAB32AA7636B002440D8 /* ItemRow.swift in Sources */,
 				4685CAAB2A9E40E9002440D8 /* Helper.swift in Sources */,
 				4685CAAF2A9E4102002440D8 /* Menu.swift in Sources */,
 			);
